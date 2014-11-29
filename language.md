@@ -4,6 +4,8 @@ If you speak English, [go here](english/marshmallow.md).
 
 Si hablas español, pasa [por aquí](espanol/canudos.md).
 
+Se parli italiano, [seguimi](Italian/caramelle.md).
+
 Türkçe konuşuyorsanız, [buraya](turkce/hatmisekeri.md).
 
 한국어를 사용하신다면, [여기를 클릭](korean/marshmallow.md).
@@ -28,3 +30,4 @@ Se você fala português, [entre aqui](portugues/colaborando.md)
 
 Ако говорите български, кликнете [тук](bulgarian/burning_room.md).
 
+日本語を使う人は、[ここ](japanese/chasitsu.md)に行ってください。
